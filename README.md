@@ -29,6 +29,8 @@
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-besedin&" alt="andrew-besedin" />
 </div>
 
+---
+
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=an83679&layout=compact)](https://wakatime.com/@an83679)
 
 ---
