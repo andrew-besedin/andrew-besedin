@@ -7,9 +7,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/andrewbesedin/)](https://www.instagram.com/andrewbesedin)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:andrewprog97@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://kwork.ru/user/andrewprog97)](https://kwork.ru/user/andrewprog97)
+[![wakatime](https://wakatime.com/badge/user/61e7426a-007b-46a9-9cb4-3f4a6b6e6623.svg)](https://wakatime.com/@61e7426a-007b-46a9-9cb4-3f4a6b6e6623)
 
 - 💻 Software Engineer at [jejolare.dev](https://jejolare.dev/).
-- 🤔 I’m currently reading [Learning JavaScript Design Patterns ](https://www.oreilly.com/library/view/learning-javascript-design/9781098139865/).
+- 🤔 Favourite books: [Learning React: Modern Patterns for Developing React Apps](https://www.oreilly.com/library/view/learning-react-2nd/9781492051718/); [Learning JavaScript Design Patterns ](https://www.oreilly.com/library/view/learning-javascript-design/9781098139865/).
 - 🌱 I can qualitatively develop and maintain React | React Native | Next.js | Node.js projects.
 - 📫 How to reach me: andrewprog97@gmail.com
 
@@ -28,5 +29,6 @@
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-besedin&" alt="andrew-besedin" />
 </div>
 
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=an83679&layout=compact)](https://wakatime.com/@an83679)
 
 ---
