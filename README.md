@@ -11,8 +11,8 @@
 
 - 💻 Software Engineer at [jejolare.dev](https://jejolare.dev/).
 - 🤔 Favourite books: [Learning React: Modern Patterns for Developing React Apps](https://www.oreilly.com/library/view/learning-react-2nd/9781492051718/); [Learning JavaScript Design Patterns ](https://www.oreilly.com/library/view/learning-javascript-design/9781098139865/).
-- 🌱 I can qualitatively develop and maintain React | React Native | Next.js | Node.js projects.
-- 📫 How to reach me: andrewprog97@gmail.com
+- 🌱 I have experience of developing and maintaining React | React Native | Next.js | Node.js projects.
+- 📫 How to reach me: Telegram [@an83679](https://t.me/an83679)
 
 
 ### 🖥 Skills
