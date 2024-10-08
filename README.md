@@ -10,7 +10,6 @@
 [![wakatime](https://wakatime.com/badge/user/61e7426a-007b-46a9-9cb4-3f4a6b6e6623.svg)](https://wakatime.com/@61e7426a-007b-46a9-9cb4-3f4a6b6e6623)
 
 - 💻 Software Engineer at [jejolare.dev](https://jejolare.dev/).
-- 🤔 Favourite books: [Learning React: Modern Patterns for Developing React Apps](https://www.oreilly.com/library/view/learning-react-2nd/9781492051718/); [Learning JavaScript Design Patterns ](https://www.oreilly.com/library/view/learning-javascript-design/9781098139865/).
 - 🌱 I have experience of developing and maintaining React | React Native | Next.js | Node.js projects.
 - 📫 How to reach me: Telegram [@an83679](https://t.me/an83679)
 
