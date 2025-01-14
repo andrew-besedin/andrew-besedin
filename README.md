@@ -9,7 +9,7 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://kwork.ru/user/andrewprog97)](https://kwork.ru/user/andrewprog97)
 [![wakatime](https://wakatime.com/badge/user/61e7426a-007b-46a9-9cb4-3f4a6b6e6623.svg)](https://wakatime.com/@61e7426a-007b-46a9-9cb4-3f4a6b6e6623)
 
-- 💻 Software Engineer at [intexsoft.com]([https://jejolare.dev/](https://www.intexsoft.com/)).
+- 💻 Software Engineer at [intexsoft.com](https://www.intexsoft.com/).
 - 🌱 I have experience of developing and maintaining React | React Native | Next.js | Node.js projects.
 - 📫 How to reach me: Telegram [@an83679](https://t.me/an83679)
 
