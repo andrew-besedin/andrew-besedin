@@ -8,12 +8,12 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://kwork.ru/user/andrewprog97)](https://kwork.ru/user/andrewprog97)
 [![wakatime](https://wakatime.com/badge/user/61e7426a-007b-46a9-9cb4-3f4a6b6e6623.svg)](https://wakatime.com/@61e7426a-007b-46a9-9cb4-3f4a6b6e6623)
 
-- 💻 Software Engineer.
-- 🌱 I have experience of developing and maintaining React | React Native | Next.js | Node.js projects.
-- 📫 How to reach me: Telegram [@an83679](https://t.me/an83679)
+- Software Engineer.
+- I have expertize of developing and maintaining React | React Native | Next.js | Node.js projects.
+- How to reach me: Telegram [@an83679](https://t.me/an83679)
 
 
-### 🖥 Skills
+### Skills
 
 ### UI/UX Development (React, Next.js, Vanilla JS)
 Experienced in building responsive and user-friendly interfaces using React, Next.js, and Vanilla JavaScript with a strong focus on long-term maintainability and support quality. I ensure accessibility compliance, performance optimization, and adherence to design standards while continuously monitoring for potential issues. My work emphasizes delivering stable, well-documented UI components that are easy to maintain and extend without compromising security or usability.
@@ -23,7 +23,7 @@ Skilled in developing and supporting secure, high-performance server application
 
 ### Mobile UI/UX Development on React Native
 Proficient in developing cross-platform mobile applications using React Native with a focus on high-quality support and secure implementation. I design mobile interfaces that meet user expectations while ensuring smooth integration with backend services. My development process includes proactive vulnerability assessment, applying secure coding standards, and maintaining application reliability through continuous testing, monitoring, and updates.
-### ⚙️ Tech Stack
+### Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js&color=353535) ![Bootstrap](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux&color=353535) ![Bootstrap](https://img.shields.io/badge/-WASM-05122A?style=flat&logo=webassembly&color=353535) ![Bootstrap](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&color=353535) ![Bootstrap](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express&color=353535) ![Bootstrap](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=NestJS&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgresQL-05122A?style=flat&logo=PostgresQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb&color=353535) ![Bootstrap](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira&color=353535)
 
