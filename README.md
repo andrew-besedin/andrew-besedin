@@ -9,7 +9,7 @@
 [![wakatime](https://wakatime.com/badge/user/61e7426a-007b-46a9-9cb4-3f4a6b6e6623.svg)](https://wakatime.com/@61e7426a-007b-46a9-9cb4-3f4a6b6e6623)
 
 - Software Engineer.
-- I have expertize of developing and maintaining React | React Native | Next.js | Node.js projects.
+- I have expertise of developing and maintaining React | React Native | Next.js | Node.js projects.
 - How to reach me: Telegram [@an83679](https://t.me/an83679)
 
 
