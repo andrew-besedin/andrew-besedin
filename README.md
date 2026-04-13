@@ -5,7 +5,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-24A1DE?logo=Telegram&logoColor=white)](https://t.me/an83679)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-besedin-293305254/?locale=en_US)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:andrewprog97@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://kwork.ru/user/andrewprog97)](https://kwork.ru/user/andrewprog97)
 [![wakatime](https://wakatime.com/badge/user/61e7426a-007b-46a9-9cb4-3f4a6b6e6623.svg)](https://wakatime.com/@61e7426a-007b-46a9-9cb4-3f4a6b6e6623)
 
 - Software Engineer.
