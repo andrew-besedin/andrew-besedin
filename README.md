@@ -12,16 +12,12 @@
 - How to reach me: Telegram [@an83679](https://t.me/an83679)
 
 
-### Skills
+### About
 
-### UI/UX Development (React, Next.js, Vanilla JS)
-Experienced in building responsive and user-friendly interfaces using React, Next.js, and Vanilla JavaScript with a strong focus on long-term maintainability and support quality. I ensure accessibility compliance, performance optimization, and adherence to design standards while continuously monitoring for potential issues. My work emphasizes delivering stable, well-documented UI components that are easy to maintain and extend without compromising security or usability.
+I focus on engineering quality, building maintainable architecture for web, mobile, and backend applications with strong attention to reliability, security, and long-term support. My approach is based on clear technical decisions, performance awareness, and adherence to standards, with proactive identification of vulnerabilities and weak points, application of secure development practices, and a constant focus on keeping products stable, scalable, and easy to maintain.
 
-### Server Apps Development (Node.js, Express, Nest.js)
-Skilled in developing and supporting secure, high-performance server applications using Node.js with frameworks like Express and Nest.js. My experience includes implementing reliable backend architectures, designing RESTful APIs, and ensuring data integrity through proper authentication, authorization, and encryption practices. I pay special attention to identifying and fixing vulnerabilities during the development process, applying industry best practices to maintain robust security and stability over the project lifecycle.
+I plan to grow toward research-intensive engineering work, with a focus on building libraries, foundational infrastructure, and core technologies in computer science, where depth, systems thinking, and meaningful technical innovation matter most.
 
-### Mobile UI/UX Development on React Native
-Have expertise in developing cross-platform mobile applications using React Native with a focus on high-quality support and secure implementation. I design mobile interfaces that meet user expectations while ensuring smooth integration with backend services. My development process includes proactive vulnerability assessment, applying secure coding standards, and maintaining application reliability through continuous testing, monitoring, and updates.
 ### Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js&color=353535) ![Bootstrap](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux&color=353535) ![Bootstrap](https://img.shields.io/badge/-WASM-05122A?style=flat&logo=webassembly&color=353535) ![Bootstrap](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&color=353535) ![Bootstrap](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express&color=353535) ![Bootstrap](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=NestJS&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgresQL-05122A?style=flat&logo=PostgresQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb&color=353535) ![Bootstrap](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira&color=353535)
