@@ -16,7 +16,7 @@
 
 I focus on engineering quality, building maintainable architecture for web, mobile, and backend applications with strong attention to reliability, security, and long-term support. My approach is based on clear technical decisions, performance awareness, and adherence to standards, with proactive identification of vulnerabilities and weak points, application of secure development practices, and a constant focus on keeping products stable, scalable, and easy to maintain.
 
-I plan to grow toward research-intensive engineering work, with a focus on building libraries, foundational infrastructure, and core technologies in computer science, where depth, systems thinking, and meaningful technical innovation matter most.
+I plan to grow toward research-intensive engineering work, with a focus on building libraries and frameworks, foundational infrastructure, and core technologies in computer science, where depth, systems thinking, and meaningful technical innovation matter most.
 
 ### Tech Stack
 
